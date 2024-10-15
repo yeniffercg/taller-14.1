@@ -1,0 +1,19 @@
+main {
+    min-height: calc(100vh - 160px);
+  }
+
+  .card {
+    width: 430px;
+    height: 350px;
+    margin-block-end: auto;
+    display: flex;
+  }
+
+.card img {
+  max-height:  200px;
+  
+}
+
+.card-body {
+  overflow-y: auto;;
+}
